@@ -74,7 +74,7 @@ Further work could involve building predictive models to enhance accuracy and su
 
 ## Collaboration
 
-This project was completed as part of a collaborative effort within the **Data Analytics with Python** course. Team members contributed to data cleaning, analysis, and visualization to ensure a comprehensive study.
+This project was completed as part of a collaborative effort within the **Data Analytics with Python** training course. Team members contributed to data cleaning, analysis, and visualization to ensure a comprehensive study.
 
 ---
 
